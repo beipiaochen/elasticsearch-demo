@@ -1,0 +1,3 @@
+# Project exclude paths
+/elasticsearch-java-demo/target/
+/springboot-es-demo/target/
